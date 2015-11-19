@@ -2,7 +2,7 @@
 
 /**
 * @author Dwi Hujianto <dwi.hujianto@gmail.com>
-* @package Engine / Kernel
+* @package Engine / Url
 */
 
 function Segment($segmentvalue)
