@@ -9,6 +9,13 @@
 
 require_once ENGPATH.'/Database.php';
 
+/* Session */
+
+if ($session===TRUE) 
+{
+	require_once ENGPATH.'/Session.php';	
+}
+
 /* Router */
 
 require_once ENGPATH.'/Router.php';

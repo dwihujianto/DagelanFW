@@ -25,7 +25,7 @@ switch (Segment(3)) {
 	/* Store data */
 		
 	case 'store':
-		
+
 		$parse = [
 			'title'		=> input('_title'),
 			'year'		=> input('_year'),
